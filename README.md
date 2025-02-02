@@ -1,1 +1,2 @@
 # -Heart-Disease-Prediction-using-Machine-Learning
+This project analyzes a heart disease dataset and builds a machine learning model to predict heart disease. The workflow includes data preprocessing, exploratory data analysis (EDA) with visualizations, feature engineering, model training, evaluation, and insights. The dataset is processed using Python, and various machine learning algorithms are tested to find the best-performing model.
